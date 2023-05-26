@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h-85 {
+    height: 21.60rem;
+}
+.border-12 {
+    border-width: 12px;
+}
+.imgSize {
+    width: 12rem;
+    height: 12rem;
+}
+.rarityPosition {
+    top: 13.4rem;
+    left: 6.3rem;
+}
+.attackPosition {
+    top: 12.9rem;
+    left: 10.5rem;
+}
+.cardtextfield{
+    font-size: 0.6rem;
+    line-height: 1;
+}
+.pr-23 {
+    padding-right: 6.5rem;
+}
+.pr-22 {
+    padding-right: 5.5rem;
+}
+.pr-21 {
+    padding-right: 5.7rem;
+}
+.pr-16 {
+    padding-right: 4.2rem;
+}
+.pr-15 {
+    padding-right: 3.65rem;
+}
+img{
+    color:#151625
+}
